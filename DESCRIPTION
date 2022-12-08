@@ -2,10 +2,11 @@ Package: statsdist
 Type: Package
 Title: Statistical Distances of Discrete Probability Distributions
 Version: 0.0.0
-Author: Zachary Higa, <higa2426@vandals.uidaho.edu>, ("aut", "cre")
+Author: Zachary Higa, <higa2426@vandals.uidaho.edu>, ("aut" & "cre")
 Maintainer: Zachary Higa <higa2426@vandals.uidaho.edu>
 Description: Calculates Statistical Distances of two Discrete Probability Distributions. Also, can 
   produce barplots of probability distributions.
+Import: ggplot2
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
