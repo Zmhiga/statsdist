@@ -2,9 +2,8 @@ Package: statsdist
 Type: Package
 Title: Statistical Distances of Discrete Probability Distributions
 Version: 0.0.0
-Author: person("Zachary", "Higa", "higa2426@vandals.uidaho.edu", role = c("aut", "cre"),
-                    comment = c(ORCID = "YOUR-ORCID-ID"))
-Maintainer: The package maintainer <higa2426@vandals.uidaho.edu>
+Author: Zachary Higa, <higa2426@vandals.uidaho.edu>, ("aut", "cre")
+Maintainer: Zachary Higa <higa2426@vandals.uidaho.edu>
 Description: Calculates Statistical Distances of two Discrete Probability Distributions. Also, can 
   produce barplots of probability distributions.
 License: What license is it under?

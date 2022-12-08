@@ -1,1 +1,6 @@
 exportPattern("^[[:alpha:]]+")
+export(prob_bar)
+export(kl_div)
+export(tv_distance)
+
+import(ggplot2)

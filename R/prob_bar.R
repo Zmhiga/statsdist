@@ -5,7 +5,7 @@
 #' @param dist2 The vector of probabilities of the second discrete distribution
 #' @param both If true, both barplots for each distribution will be in one barplot (default is true)
 #' @keywords Probability Barplot
-#' @export
+#' @export prob_bar()
 #' @examples
 #' prob_bar()
 
